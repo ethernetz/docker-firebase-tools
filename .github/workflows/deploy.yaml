@@ -27,4 +27,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: ethernetz/docker-firebase:latest
+        tags: ethernetz/docker-firebase-tools:latest
